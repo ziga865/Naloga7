@@ -1,0 +1,29 @@
+# Testni scenariji
+
+## Scenarij 1
+**Funkcionalnost:** Iskanje izdelkov po ključnih besedah  
+**Koraki testa:**  
+1. Uporabnik odpre stran s seznamom izdelkov  
+2. V iskalno vrstico vpiše "čokolada"  
+3. Klikne gumb "Išči" ali pritisne Enter  
+**Pričakovan rezultat:**  
+Prikažejo se samo izdelki, ki v imenu ali opisu vsebujejo besedo "čokolada".
+
+## Scenarij 2
+**Funkcionalnost:** Brisanje uporabniškega računa  
+**Koraki testa:**  
+1. Uporabnik se prijavi v svoj račun  
+2. Odpre nastavitve računa  
+3. Klikne na gumb "Izbriši račun"  
+4. Potrdi brisanje  
+**Pričakovan rezultat:**  
+Uporabnik je odjavljen, njegov račun in podatki so odstranjeni iz baze, uporabnik pa prejme obvestilo o uspešnem izbrisu.
+
+## Scenarij 3
+**Funkcionalnost:** Spreminjanje količine izdelka v košarici  
+**Koraki testa:**  
+1. Uporabnik odpre košarico, kjer je že dodan izdelek  
+2. Pri izdelku spremeni količino iz 1 na 3  
+3. Klikne “Posodobi košarico”  
+**Pričakovan rezultat:**  
+Količina se spremeni na 3, cena se ustrezno preračuna, in košarica prikaže nove vrednosti.
