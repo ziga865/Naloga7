@@ -10,3 +10,7 @@
 ### Dodane datoteke
 - Dodana osnovna HTML stran index.html za IT podjetje
 - Dodana kontaktna stran kontakt.html s kontaktnimi podatki podjetja in zaposlenih
+
+## Vloga C
+- Dodani testni scenarij
+- Posodobljeni kontakti
